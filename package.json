@@ -6,7 +6,6 @@
   },
   "scripts": {
     "build": "echo \"The build step is not required when using JavaScript!\" && exit 0",
-    "build-lambda": "node build-lambda.js",
     "cdk": "cdk",
     "test": "jest"
   },
