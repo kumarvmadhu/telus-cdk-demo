@@ -1,0 +1,11 @@
+{
+  "name": "aws-lambda-demo",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1677.0",
+    "uuid": "^10.0.0"
+  }
+}
